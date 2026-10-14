@@ -2,7 +2,7 @@
 
 > **Важно: это не мой код.**
 >
-> Оригинальный код принадлежит **Sidharth "Siddhi" Sharma** ([sidharthify](https://github.com/sidharthify)) —
+> Оригинальный код принадлежит [sidharthify](https://github.com/sidharthify) —
 > оригинальный репозиторий: **https://github.com/sidharthify/stillAlive-C**
 >
 > Я лишь выполнил **перевод текста на русский язык**. Вся логика, рендеринг, структура и
